@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+uploaded_image.png
+story_audio_en.mp3
+story_audio_hi.mp3
+story_audio.mp3
+image.png
+.vscode/
